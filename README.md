@@ -8,6 +8,7 @@ struct ListNode<br />
 { <br />
 >>int m_nKey; <br />
 >>ListNode * m_pNext; <br />
+
 }; 
 
 
